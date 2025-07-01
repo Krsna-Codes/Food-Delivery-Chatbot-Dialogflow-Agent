@@ -1,0 +1,75 @@
+[
+  {
+    "value": "Pav bhaji",
+    "synonyms": [
+      "Pav bhaji",
+      "Bhaji Pav"
+    ]
+  },
+  {
+    "value": "Chole Bhature",
+    "synonyms": [
+      "Chole Bhature",
+      "Bhature Chole",
+      "Bhature",
+      "Chole",
+      "Chole Puri",
+      "puri chole"
+    ]
+  },
+  {
+    "value": "Pizza",
+    "synonyms": [
+      "Pizza",
+      "Cheese Pizza",
+      "Small Pizza",
+      "Medium Pizza",
+      "Large Pizza"
+    ]
+  },
+  {
+    "value": "Mango Lassi",
+    "synonyms": [
+      "Mango Lassi",
+      "Cold Mango Lassi",
+      "No ice Mango Lassi",
+      "Aam Lassi"
+    ]
+  },
+  {
+    "value": "Masala Dosa",
+    "synonyms": [
+      "Masala Dosa",
+      "Nice Masala Dosa",
+      "Special Masala Dosa",
+      "Dosa",
+      "rava dosa"
+    ]
+  },
+  {
+    "value": "Chicken Biryani",
+    "synonyms": [
+      "Chicken Biryani",
+      "Biryani",
+      "Tandoori Chicken Biryani"
+    ]
+  },
+  {
+    "value": "Vada Pav",
+    "synonyms": [
+      "Vada Pav",
+      "Pav Vada",
+      "Pav",
+      "Vada"
+    ]
+  },
+  {
+    "value": "Samosa",
+    "synonyms": [
+      "Samosa",
+      "Aloo samosa",
+      "Jeera Samosa",
+      "Onion Samosa"
+    ]
+  }
+]
